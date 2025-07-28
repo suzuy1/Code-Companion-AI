@@ -46,4 +46,4 @@ PERATURAN WAJIB:
 
 export const THINKING_SIMULATION_INTERVAL = 1800;
 
-export const DEFAULT_MODEL = 'gemini-2.5-pro';
+export const DEFAULT_MODEL = 'gemini-2.5-flash';
